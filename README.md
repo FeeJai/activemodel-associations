@@ -27,6 +27,7 @@ Or install it yourself as:
 - activerecord-4.0.x
 - activerecord-4.1.x
 - activerecord-4.2.x
+- activerecord-5.0.x
 
 ## Usage
 
